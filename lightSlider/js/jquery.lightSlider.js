@@ -443,7 +443,8 @@
                     }
                     ob.css({
                         'height': tH + 'px',
-                        'padding-bottom': tP + '%'
+                        'padding-bottom': tP + '%',
+                        'margin' : '0'
                     });
                 };
                 setCss();

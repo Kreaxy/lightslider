@@ -1,0 +1,23 @@
+.content-sliderliq li{
+	color: #FFF9F9;
+	background-color: #907F7E;
+}
+.content-sliderliq h3{
+	margin: 0;
+}
+.content-sliderliq .imageliq{
+	float:left;
+	padding-right: 10px;
+}
+.content-sliderliq .headlineliq{
+	clear: none;
+	margin: 0;
+}
+.content-sliderliq .descriptionliq{
+	font-size: 16px;
+	margin: 0;
+}
+.content-sliderliq .readmoreliq{
+	font-size: 12px;
+	margin:0;
+}
